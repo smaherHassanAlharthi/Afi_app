@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "471666945505",
+    "project_id": "afiapp-32a36",
+    "storage_bucket": "afiapp-32a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471666945505:android:65c5fc184ee8b75746b6a0",
+        "android_client_info": {
+          "package_name": "com.example.afi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471666945505-omv9gda2k5e5lsio37rj7kbcvjt8d239.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9SytNlA1ZBeP28P2b2lPP6hRxdlmUb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471666945505-omv9gda2k5e5lsio37rj7kbcvjt8d239.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
